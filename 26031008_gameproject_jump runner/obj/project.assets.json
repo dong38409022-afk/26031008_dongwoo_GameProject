@@ -881,11 +881,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jungo\\Desktop\\26031008_week3_submission_AppMain\\26031008_dongwoo_GameProject\\26031008_gameproject_jump runner\\26031008_Kimdongwoo_GameProject_jump jump.csproj",
+      "projectUniqueName": "C:\\Users\\jungo\\Desktop\\26031008_kimdongwoo_3주차 과제\\26031008_dongwoo_GameProject\\26031008_gameproject_jump runner\\26031008_Kimdongwoo_GameProject_jump jump.csproj",
       "projectName": "26031008_Kimdongwoo_GameProject_jump jump",
-      "projectPath": "C:\\Users\\jungo\\Desktop\\26031008_week3_submission_AppMain\\26031008_dongwoo_GameProject\\26031008_gameproject_jump runner\\26031008_Kimdongwoo_GameProject_jump jump.csproj",
+      "projectPath": "C:\\Users\\jungo\\Desktop\\26031008_kimdongwoo_3주차 과제\\26031008_dongwoo_GameProject\\26031008_gameproject_jump runner\\26031008_Kimdongwoo_GameProject_jump jump.csproj",
       "packagesPath": "C:\\Users\\jungo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jungo\\Desktop\\26031008_week3_submission_AppMain\\26031008_dongwoo_GameProject\\26031008_gameproject_jump runner\\obj\\",
+      "outputPath": "C:\\Users\\jungo\\Desktop\\26031008_kimdongwoo_3주차 과제\\26031008_dongwoo_GameProject\\26031008_gameproject_jump runner\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jungo\\AppData\\Roaming\\NuGet\\NuGet.Config",
