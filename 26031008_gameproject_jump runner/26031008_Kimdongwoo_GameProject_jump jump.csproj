@@ -1,21 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <DisableWinExeOutputInference>true</DisableWinExeOutputInference>
+    <OutputType>WinExe</OutputType>
     <TargetFramework>net9.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
-    <RootNamespace>_26031008_Kimdongwoo_GameProject_jump_jump</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="glc2dcsharp" Version="0.1.0.7" />
-    <PackageReference Include="Vortice.Direct2D1" Version="3.8.3" />
-    <PackageReference Include="Vortice.WinForms" Version="3.8.3" />
-    <PackageReference Include="Vortice.XAudio2" Version="3.8.3" />
-    <PackageReference Include="Vortice.XInput" Version="3.8.3" />
-    <PackageReference Include="NAudio" Version="3.0.1" />
-    <None Update="resource\**\*" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Compile Include="Program.cs" />
+    <None Update="resource\tx_ui\background.png;resource\tx_ui\gameover.png;resource\tx_ui\jump.png;resource\tx_ui\obstacle.png;resource\tx_ui\run_sheet.png;resource\tx_ui\start.png;resource\sound\hit.wav;resource\sound\jump.wav;resource\sound\score.wav" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 </Project>
-
